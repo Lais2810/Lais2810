@@ -2,10 +2,7 @@
 
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lais2018&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lais2018&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+<a href="https://github.com/Lais2810">
+     <img height="175m" src="https://github-readme-stats.vercel.app/api?username=Lais2810&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lais2810&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
