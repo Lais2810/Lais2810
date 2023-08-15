@@ -2,8 +2,7 @@
 
 
 <div align="center">
-<a href="https://github.com/Lais2810">
-     <img height="175m" src="https://github-readme-stats.vercel.app/api?username=Lais2810&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lais2810&layout=compact&langs_count=16&theme=midnight-purple"/>
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lais2810&show_icons=true&count_private=true&hide_border=true&title_color=ea8364&icon_color=ea8364&text_color=c9d1d9&bg_color=0d1117" alt="Lais2810 stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lais2810&layout=compact&hide_border=true&title_color=ea8364&text_color=ea8364&bg_color=0d1117" />
 </a>
 </div>
