@@ -5,4 +5,5 @@
 <a href="https://github.com/Lais2810">
      <img height="175m" src="https://github-readme-stats.vercel.app/api?username=Lais2810&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lais2810&layout=compact&langs_count=16&theme=midnight-purple"/>
+</a>
 </div>
