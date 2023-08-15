@@ -2,7 +2,10 @@
 
 
 <div align="center">
-<a href="https://github.com/Lais2810">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lais2810&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=6483ea" alt="Lais2810 stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lais2810&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=6483ea" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lais2018&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lais2018&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 </div>
